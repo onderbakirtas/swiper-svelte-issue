@@ -1,5 +1,6 @@
 {
   "name": "swiper-svelte-issue",
+  "license": "MIT",
   "version": "0.0.1",
   "scripts": {
     "dev": "svelte-kit dev --port 3111",
